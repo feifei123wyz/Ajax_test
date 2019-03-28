@@ -1,0 +1,16 @@
+{
+  "country": [
+    {
+      "countryname": "日本",
+      "capital": "WEB学科"
+    },
+    {
+      "countryname": "中国",
+      "capital": "北京"
+    },
+    {
+      "countryname": "アメリカ",
+      "capital": "ニューヨーク"
+    }
+  ]
+}
